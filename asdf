@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main(){
+	printf("언제마치냐...");
+	return 0;
+}
+
